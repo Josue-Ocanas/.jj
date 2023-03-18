@@ -1,0 +1,65 @@
+section p { text-align:justify;  }
+section p { font-family:Arial, Helvetica, sans-serif }
+section ol{font-family: Arial, Helvetica, sans-serif;}
+section h2 { text-align:center; text-shadow: 05px 05px 05px tomato; font-family: "Dancing Script" ;
+ }
+ header h1 { text-align:center; text-shadow: 10px 10px 10px #ffffff96; font-family: "Dancing Script" ;}
+header h1{font-size: 100px;}
+section h2{font-size:55px}
+.Copiright{text-align: center;}
+
+.hola{float: left; width: 500px; height: 350px;}
+
+.izquierda{float: left;}
+.contencion{
+    display: flex;
+}
+.PAPOI2{
+    margin-right: 50px;
+    width:600px;
+    height: 400px;
+}
+.PAPOI1{width: 600px; height: 400px;}
+.Boton{display:flex; justify-content: left;}
+.T{display: flex; justify-content: center;}
+.Email{display:flex; justify-content: center;}
+header{
+    background-color: #222;
+    padding: 3rem;
+    color:#fff
+}
+footer {
+    background-color: #222;
+    padding: 3rem;
+    color:#fff;
+    }
+footer a{
+    transition: color 0.5s;
+    color:#fff;
+    text-decoration: none;
+}
+footer a:hover{
+    color:springgreen;
+    text-decoration: line-through;
+}
+ 
+section{
+    background-color: #222;
+    padding: 3rem;
+    color:#fff
+}
+
+.contacto{float: right;}
+.hola{ margin-right: 10px;}
+.izquierda{margin-right: 10px;}
+.Copiright{text-decoration: underline;}
+section article a{
+    transition: color 0.5s;
+    color: #fff;
+    text-decoration: underline;
+}
+section article a:hover{
+    color:tomato;
+    text-decoration: line-through;
+}
+
